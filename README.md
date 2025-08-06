@@ -20,8 +20,7 @@ This project is **strictly for learning purposes** and takes full inspiration fr
 
 ## Usage
 ### 1. Clone the repository:
-   git clone <your-repo-url>
-   cd makemore
+   git clone https://github.com/sabnam813/makemore-by-scratch.git
 
 ### 2. Open Jupyter Notebook:
        jupyter notebook
